@@ -9,28 +9,7 @@
 
 # Example:
 
- interestingness
- flickr.interestingness.getList
- machinetags
- flickr.machinetags.getNamespaces
- flickr.machinetags.getPairs
- flickr.machinetags.getPredicates
- flickr.machinetags.getRecentValues
- flickr.machinetags.getValues 
- panda
- flickr.panda.getList
- flickr.panda.getPhotos
- flickr.people.findByEmail
- flickr.people.findByUsername
- flickr.people.getGroups
- flickr.people.getInfo
- flickr.people.getLimits
- flickr.people.getPhotos
- flickr.people.getPhotosOf
- flickr.people.getPublicGroups
- flickr.people.getPublicPhotos
- flickr.people.getUploadStatus
- photos
+# photos:
  flickr.photos.delete
  flickr.photos.getAllContexts
  flickr.photos.getContactsPhotos
@@ -66,9 +45,9 @@
         # 5. Quantity of photos selection
         # 6. page jump option
 
-# Now your work is done, now follow my code and paster your api_key
+# Now your work is done, follow my code and paster your api_key
 
-
+# Try to understand, not just copy and paste!
 # APIs makes life easy!
 # Now It's easy to download photos by click!
 
