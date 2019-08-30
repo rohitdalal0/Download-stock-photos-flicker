@@ -1,9 +1,9 @@
 import requests
 from urllib.request import urlretrieve
-import json,pprint,os
+import json,os
 
 api = '<your api_key>'
-secret = '<secret_key>'
+secret = '<secret_key>' # optional
 
 # Input from user
 search = str(input('Describe photo: '))
