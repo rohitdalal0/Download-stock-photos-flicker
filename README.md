@@ -6,9 +6,13 @@ https://www.flickr.com/services/apps/create/apply/?.
 
 3. No-commercial: Your own use, implement in you website ... etc.
 4. commercial: Use for make money, use in corperate sector ... etc.
-5. Check api Documentation https://www.flickr.com/services/api/.
+5. Check API Documentation.
+https://www.flickr.com/services/developer/
+https://www.flickr.com/services/api/misc.overview.html
+
 6. you'll see n number of API
-7. GO to Photos api and get anyone of them or choice by your purpose.
+7. Go to api_list and get anyone of them or choice by your purpose.
+   https://www.flickr.com/services/api/
 
 
 ## Example:
@@ -40,7 +44,7 @@ https://www.flickr.com/services/apps/create/apply/?.
  flickr.photos.setSafetyLevel, 
  flickr.photos.setTags,
         
- 6. Paste your api_link in my code and use it.
+# 6. Paste your api_link in my code and use it.
 # 7. My app features:
         # 1. search
         # 2. height x width
