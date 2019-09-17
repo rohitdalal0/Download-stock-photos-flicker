@@ -1,4 +1,4 @@
-# flicker_api_get_photos
+# Flicker_API_get_photos
 
 1. Go on www.flicker.com and make your flicker account.
 2. after that get api_key and secreat_key or just temporary paste some where, where you can easily get it
